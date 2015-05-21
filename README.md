@@ -1,2 +1,2 @@
 # janekMeetF
-instalace omxplayer multiple raspberry sync
+omxplayer multiple video player raspberry sync (UDP broadcast)
