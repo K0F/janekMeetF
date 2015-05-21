@@ -1,2 +1,2 @@
 # janekMeetF
-instalace 5x raspberry sync
+instalace omxplayer multiple raspberry sync
